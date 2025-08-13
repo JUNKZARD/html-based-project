@@ -1,0 +1,59 @@
+.nama {
+    font-bold;
+    
+}
+
+.kotak1 {}
+.Nama2 {
+    color: blue;
+    margin-top: -7px;
+    padding: 5px;
+    list-style: none;
+}
+
+.kotak2 {
+    color:black;
+    margin-top: -7px;
+    padding: 5px;
+    list-style: none;
+}
+
+.garis {
+    border: 1px solid black;
+}
+.Nama3 {
+    color: blue;
+    margin-top: -7px;
+    padding: 3px;
+    list-style: none;
+}
+
+.SMA {
+    color: red;
+    margin-top: -7px;
+    padding: 5px;
+}
+
+.tahun {
+     margin-top: 10px; 
+     padding-top: -10px;
+}
+
+.Nama4 {
+    color: blue;
+    margin-top: -7px;
+    padding: 3px;
+    list-style: none;
+}
+
+.Nama5 {
+    color: blue;
+    margin-top: 10px;
+    margin: px;
+    padding: -7px;
+    list-style: none;
+}
+.skil {
+    margin-top: -10px;
+    padding: -5px;
+}
